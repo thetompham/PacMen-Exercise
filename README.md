@@ -8,7 +8,7 @@ PacMen exercise animates a factory of PacMen within the DOM that travels from le
 Create repository with files
 
 ## Usage: 
-Displays in web browser
+Displays in web browser. JS files does the functionality and the index file runs it. Add pacmen and start game.
 
 ## Support: 
 If you have question email: tomlepham@gmail.com
