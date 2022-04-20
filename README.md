@@ -14,7 +14,7 @@ Displays in web browser. JS files does the functionality and the index file runs
 If you have question email: tomlepham@gmail.com
 
 ## Roadmap: 
-Would love to add more features to the movement
+Would love to add more features to the movement, more buttons (stop/go)
 
 ## License information:
 Copywright (C) MIT Pro Coding Bootcamp Program - Emeritus
